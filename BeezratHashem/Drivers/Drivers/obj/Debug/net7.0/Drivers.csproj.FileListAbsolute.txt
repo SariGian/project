@@ -1,0 +1,179 @@
+H:\c#\בשם השם נעשה ונצליח\Drivers\Drivers\obj\Debug\net7.0\Drivers.csproj.AssemblyReference.cache
+H:\c#\בשם השם נעשה ונצליח\Drivers\Drivers\obj\Debug\net7.0\Drivers.GeneratedMSBuildEditorConfig.editorconfig
+H:\c#\בשם השם נעשה ונצליח\Drivers\Drivers\obj\Debug\net7.0\Drivers.AssemblyInfoInputs.cache
+H:\c#\בשם השם נעשה ונצליח\Drivers\Drivers\obj\Debug\net7.0\Drivers.AssemblyInfo.cs
+H:\c#\בשם השם נעשה ונצליח\Drivers\Drivers\obj\Debug\net7.0\Drivers.csproj.CoreCompileInputs.cache
+H:\c#\בשם השם נעשה ונצליח\Drivers\Drivers\obj\Debug\net7.0\Drivers.MvcApplicationPartsAssemblyInfo.cache
+H:\c#\בשם השם נעשה ונצליח\Drivers\Drivers\bin\Debug\net7.0\appsettings.Development.json
+H:\c#\בשם השם נעשה ונצליח\Drivers\Drivers\bin\Debug\net7.0\appsettings.json
+H:\c#\בשם השם נעשה ונצליח\Drivers\Drivers\bin\Debug\net7.0\Drivers.exe
+H:\c#\בשם השם נעשה ונצליח\Drivers\Drivers\bin\Debug\net7.0\Drivers.deps.json
+H:\c#\בשם השם נעשה ונצליח\Drivers\Drivers\bin\Debug\net7.0\Drivers.runtimeconfig.json
+H:\c#\בשם השם נעשה ונצליח\Drivers\Drivers\bin\Debug\net7.0\Drivers.dll
+H:\c#\בשם השם נעשה ונצליח\Drivers\Drivers\bin\Debug\net7.0\Drivers.pdb
+H:\c#\בשם השם נעשה ונצליח\Drivers\Drivers\bin\Debug\net7.0\BlDriver.dll
+H:\c#\בשם השם נעשה ונצליח\Drivers\Drivers\bin\Debug\net7.0\DalDriver.dll
+H:\c#\בשם השם נעשה ונצליח\Drivers\Drivers\bin\Debug\net7.0\BlDriver.pdb
+H:\c#\בשם השם נעשה ונצליח\Drivers\Drivers\bin\Debug\net7.0\DalDriver.pdb
+H:\c#\בשם השם נעשה ונצליח\Drivers\Drivers\obj\Debug\net7.0\staticwebassets\msbuild.Drivers.Microsoft.AspNetCore.StaticWebAssets.props
+H:\c#\בשם השם נעשה ונצליח\Drivers\Drivers\obj\Debug\net7.0\staticwebassets\msbuild.build.Drivers.props
+H:\c#\בשם השם נעשה ונצליח\Drivers\Drivers\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Drivers.props
+H:\c#\בשם השם נעשה ונצליח\Drivers\Drivers\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Drivers.props
+H:\c#\בשם השם נעשה ונצליח\Drivers\Drivers\obj\Debug\net7.0\staticwebassets.pack.json
+H:\c#\בשם השם נעשה ונצליח\Drivers\Drivers\obj\Debug\net7.0\staticwebassets.build.json
+H:\c#\בשם השם נעשה ונצליח\Drivers\Drivers\obj\Debug\net7.0\staticwebassets.development.json
+H:\c#\בשם השם נעשה ונצליח\Drivers\Drivers\obj\Debug\net7.0\scopedcss\bundle\Drivers.styles.css
+H:\c#\בשם השם נעשה ונצליח\Drivers\Drivers\obj\Debug\net7.0\Drivers.csproj.CopyComplete
+H:\c#\בשם השם נעשה ונצליח\Drivers\Drivers\obj\Debug\net7.0\Drivers.dll
+H:\c#\בשם השם נעשה ונצליח\Drivers\Drivers\obj\Debug\net7.0\refint\Drivers.dll
+H:\c#\בשם השם נעשה ונצליח\Drivers\Drivers\obj\Debug\net7.0\Drivers.pdb
+H:\c#\בשם השם נעשה ונצליח\Drivers\Drivers\obj\Debug\net7.0\Drivers.genruntimeconfig.cache
+H:\c#\בשם השם נעשה ונצליח\Drivers\Drivers\obj\Debug\net7.0\ref\Drivers.dll
+C:\Users\גיהן שרה\Desktop\בשם השם נעשה ונצליח\Drivers\Drivers\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\גיהן שרה\Desktop\בשם השם נעשה ונצליח\Drivers\Drivers\bin\Debug\net7.0\appsettings.json
+C:\Users\גיהן שרה\Desktop\בשם השם נעשה ונצליח\Drivers\Drivers\bin\Debug\net7.0\Drivers.exe
+C:\Users\גיהן שרה\Desktop\בשם השם נעשה ונצליח\Drivers\Drivers\bin\Debug\net7.0\Drivers.deps.json
+C:\Users\גיהן שרה\Desktop\בשם השם נעשה ונצליח\Drivers\Drivers\bin\Debug\net7.0\Drivers.runtimeconfig.json
+C:\Users\גיהן שרה\Desktop\בשם השם נעשה ונצליח\Drivers\Drivers\bin\Debug\net7.0\Drivers.dll
+C:\Users\גיהן שרה\Desktop\בשם השם נעשה ונצליח\Drivers\Drivers\bin\Debug\net7.0\Drivers.pdb
+C:\Users\גיהן שרה\Desktop\בשם השם נעשה ונצליח\Drivers\Drivers\bin\Debug\net7.0\BlDriver.dll
+C:\Users\גיהן שרה\Desktop\בשם השם נעשה ונצליח\Drivers\Drivers\bin\Debug\net7.0\DalDriver.dll
+C:\Users\גיהן שרה\Desktop\בשם השם נעשה ונצליח\Drivers\Drivers\bin\Debug\net7.0\BlDriver.pdb
+C:\Users\גיהן שרה\Desktop\בשם השם נעשה ונצליח\Drivers\Drivers\bin\Debug\net7.0\DalDriver.pdb
+C:\Users\גיהן שרה\Desktop\בשם השם נעשה ונצליח\Drivers\Drivers\obj\Debug\net7.0\Drivers.csproj.AssemblyReference.cache
+C:\Users\גיהן שרה\Desktop\בשם השם נעשה ונצליח\Drivers\Drivers\obj\Debug\net7.0\Drivers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\גיהן שרה\Desktop\בשם השם נעשה ונצליח\Drivers\Drivers\obj\Debug\net7.0\Drivers.AssemblyInfoInputs.cache
+C:\Users\גיהן שרה\Desktop\בשם השם נעשה ונצליח\Drivers\Drivers\obj\Debug\net7.0\Drivers.AssemblyInfo.cs
+C:\Users\גיהן שרה\Desktop\בשם השם נעשה ונצליח\Drivers\Drivers\obj\Debug\net7.0\Drivers.csproj.CoreCompileInputs.cache
+C:\Users\גיהן שרה\Desktop\בשם השם נעשה ונצליח\Drivers\Drivers\obj\Debug\net7.0\Drivers.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\גיהן שרה\Desktop\בשם השם נעשה ונצליח\Drivers\Drivers\obj\Debug\net7.0\staticwebassets\msbuild.Drivers.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\גיהן שרה\Desktop\בשם השם נעשה ונצליח\Drivers\Drivers\obj\Debug\net7.0\staticwebassets\msbuild.build.Drivers.props
+C:\Users\גיהן שרה\Desktop\בשם השם נעשה ונצליח\Drivers\Drivers\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Drivers.props
+C:\Users\גיהן שרה\Desktop\בשם השם נעשה ונצליח\Drivers\Drivers\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Drivers.props
+C:\Users\גיהן שרה\Desktop\בשם השם נעשה ונצליח\Drivers\Drivers\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\גיהן שרה\Desktop\בשם השם נעשה ונצליח\Drivers\Drivers\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\גיהן שרה\Desktop\בשם השם נעשה ונצליח\Drivers\Drivers\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\גיהן שרה\Desktop\בשם השם נעשה ונצליח\Drivers\Drivers\obj\Debug\net7.0\scopedcss\bundle\Drivers.styles.css
+C:\Users\גיהן שרה\Desktop\בשם השם נעשה ונצליח\Drivers\Drivers\obj\Debug\net7.0\Drivers.csproj.CopyComplete
+C:\Users\גיהן שרה\Desktop\בשם השם נעשה ונצליח\Drivers\Drivers\obj\Debug\net7.0\Drivers.dll
+C:\Users\גיהן שרה\Desktop\בשם השם נעשה ונצליח\Drivers\Drivers\obj\Debug\net7.0\refint\Drivers.dll
+C:\Users\גיהן שרה\Desktop\בשם השם נעשה ונצליח\Drivers\Drivers\obj\Debug\net7.0\Drivers.pdb
+C:\Users\גיהן שרה\Desktop\בשם השם נעשה ונצליח\Drivers\Drivers\obj\Debug\net7.0\Drivers.genruntimeconfig.cache
+C:\Users\גיהן שרה\Desktop\בשם השם נעשה ונצליח\Drivers\Drivers\obj\Debug\net7.0\ref\Drivers.dll
+C:\Users\גיהן שרה\Desktop\בשם השם נעשה ונצליח\Drivers\Drivers\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\גיהן שרה\Desktop\בשם השם נעשה ונצליח\Drivers\Drivers\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\גיהן שרה\Desktop\בשם השם נעשה ונצליח\Drivers\Drivers\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\גיהן שרה\Desktop\בשם השם נעשה ונצליח\Drivers\Drivers\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\גיהן שרה\Desktop\בשם השם נעשה ונצליח\Drivers\Drivers\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\גיהן שרה\Desktop\בשם השם נעשה ונצליח\Drivers\Drivers\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\גיהן שרה\Desktop\בשם השם נעשה ונצליח\Drivers\Drivers\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\גיהן שרה\Desktop\בשם השם נעשה ונצליח\Drivers\Drivers\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\גיהן שרה\Desktop\בשם השם נעשה ונצליח\Drivers\Drivers\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\גיהן שרה\Desktop\בשם השם נעשה ונצליח\Drivers\Drivers\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\גיהן שרה\Desktop\בשם השם נעשה ונצליח\Drivers\Drivers\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\גיהן שרה\Desktop\בשם השם נעשה ונצליח\Drivers\Drivers\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\גיהן שרה\Desktop\בשם השם נעשה ונצליח\Drivers\Drivers\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\גיהן שרה\Desktop\בשם השם נעשה ונצליח\Drivers\Drivers\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\גיהן שרה\Desktop\בשם השם נעשה ונצליח\Drivers\Drivers\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\גיהן שרה\Desktop\בשם השם נעשה ונצליח\Drivers\Drivers\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\גיהן שרה\Desktop\בשם השם נעשה ונצליח\Drivers\Drivers\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\גיהן שרה\Desktop\בשם השם נעשה ונצליח\Drivers\Drivers\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\גיהן שרה\Desktop\בשם השם נעשה ונצליח\Drivers\Drivers\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\גיהן שרה\Desktop\בשם השם נעשה ונצליח\Drivers\Drivers\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\גיהן שרה\Desktop\בשם השם נעשה ונצליח\Drivers\Drivers\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\גיהן שרה\Desktop\בשם השם נעשה ונצליח\Drivers\Drivers\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\גיהן שרה\Desktop\בשם השם נעשה ונצליח\Drivers\Drivers\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\גיהן שרה\Desktop\בשם השם נעשה ונצליח\Drivers\Drivers\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\גיהן שרה\Desktop\בשם השם נעשה ונצליח\Drivers\Drivers\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\גיהן שרה\Desktop\בשם השם נעשה ונצליח\Drivers\Drivers\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\גיהן שרה\Desktop\בשם השם נעשה ונצליח\Drivers\Drivers\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\גיהן שרה\Desktop\בשם השם נעשה ונצליח\Drivers\Drivers\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\גיהן שרה\Desktop\בשם השם נעשה ונצליח\Drivers\Drivers\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\גיהן שרה\Desktop\בשם השם נעשה ונצליח\Drivers\Drivers\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\גיהן שרה\Desktop\בשם השם נעשה ונצליח\Drivers\Drivers\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\גיהן שרה\Desktop\בשם השם נעשה ונצליח\Drivers\Drivers\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\גיהן שרה\Desktop\בשם השם נעשה ונצליח\Drivers\Drivers\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\גיהן שרה\Desktop\בשם השם נעשה ונצליח\Drivers\Drivers\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\גיהן שרה\Desktop\בשם השם נעשה ונצליח\Drivers\Drivers\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\גיהן שרה\Desktop\בשם השם נעשה ונצליח\Drivers\Drivers\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\גיהן שרה\Desktop\בשם השם נעשה ונצליח\Drivers\Drivers\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\גיהן שרה\Desktop\בשם השם נעשה ונצליח\Drivers\Drivers\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\גיהן שרה\Desktop\בשם השם נעשה ונצליח\Drivers\Drivers\bin\Debug\net7.0\Humanizer.dll
+C:\Users\גיהן שרה\Desktop\בשם השם נעשה ונצליח\Drivers\Drivers\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\גיהן שרה\Desktop\בשם השם נעשה ונצליח\Drivers\Drivers\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\גיהן שרה\Desktop\בשם השם נעשה ונצליח\Drivers\Drivers\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\גיהן שרה\Desktop\בשם השם נעשה ונצליח\Drivers\Drivers\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\גיהן שרה.MBJCOMP\Desktop\BeezratHashem\Drivers\Drivers\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\גיהן שרה.MBJCOMP\Desktop\BeezratHashem\Drivers\Drivers\bin\Debug\net7.0\appsettings.json
+C:\Users\גיהן שרה.MBJCOMP\Desktop\BeezratHashem\Drivers\Drivers\bin\Debug\net7.0\Drivers.exe
+C:\Users\גיהן שרה.MBJCOMP\Desktop\BeezratHashem\Drivers\Drivers\bin\Debug\net7.0\Drivers.deps.json
+C:\Users\גיהן שרה.MBJCOMP\Desktop\BeezratHashem\Drivers\Drivers\bin\Debug\net7.0\Drivers.runtimeconfig.json
+C:\Users\גיהן שרה.MBJCOMP\Desktop\BeezratHashem\Drivers\Drivers\bin\Debug\net7.0\Drivers.dll
+C:\Users\גיהן שרה.MBJCOMP\Desktop\BeezratHashem\Drivers\Drivers\bin\Debug\net7.0\Drivers.pdb
+C:\Users\גיהן שרה.MBJCOMP\Desktop\BeezratHashem\Drivers\Drivers\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\גיהן שרה.MBJCOMP\Desktop\BeezratHashem\Drivers\Drivers\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\גיהן שרה.MBJCOMP\Desktop\BeezratHashem\Drivers\Drivers\bin\Debug\net7.0\Humanizer.dll
+C:\Users\גיהן שרה.MBJCOMP\Desktop\BeezratHashem\Drivers\Drivers\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\גיהן שרה.MBJCOMP\Desktop\BeezratHashem\Drivers\Drivers\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\גיהן שרה.MBJCOMP\Desktop\BeezratHashem\Drivers\Drivers\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\גיהן שרה.MBJCOMP\Desktop\BeezratHashem\Drivers\Drivers\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\גיהן שרה.MBJCOMP\Desktop\BeezratHashem\Drivers\Drivers\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\גיהן שרה.MBJCOMP\Desktop\BeezratHashem\Drivers\Drivers\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\גיהן שרה.MBJCOMP\Desktop\BeezratHashem\Drivers\Drivers\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\גיהן שרה.MBJCOMP\Desktop\BeezratHashem\Drivers\Drivers\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\גיהן שרה.MBJCOMP\Desktop\BeezratHashem\Drivers\Drivers\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\גיהן שרה.MBJCOMP\Desktop\BeezratHashem\Drivers\Drivers\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\גיהן שרה.MBJCOMP\Desktop\BeezratHashem\Drivers\Drivers\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\גיהן שרה.MBJCOMP\Desktop\BeezratHashem\Drivers\Drivers\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\גיהן שרה.MBJCOMP\Desktop\BeezratHashem\Drivers\Drivers\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\גיהן שרה.MBJCOMP\Desktop\BeezratHashem\Drivers\Drivers\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\גיהן שרה.MBJCOMP\Desktop\BeezratHashem\Drivers\Drivers\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\גיהן שרה.MBJCOMP\Desktop\BeezratHashem\Drivers\Drivers\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\גיהן שרה.MBJCOMP\Desktop\BeezratHashem\Drivers\Drivers\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\גיהן שרה.MBJCOMP\Desktop\BeezratHashem\Drivers\Drivers\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\גיהן שרה.MBJCOMP\Desktop\BeezratHashem\Drivers\Drivers\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\גיהן שרה.MBJCOMP\Desktop\BeezratHashem\Drivers\Drivers\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\גיהן שרה.MBJCOMP\Desktop\BeezratHashem\Drivers\Drivers\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\גיהן שרה.MBJCOMP\Desktop\BeezratHashem\Drivers\Drivers\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\גיהן שרה.MBJCOMP\Desktop\BeezratHashem\Drivers\Drivers\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\גיהן שרה.MBJCOMP\Desktop\BeezratHashem\Drivers\Drivers\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\גיהן שרה.MBJCOMP\Desktop\BeezratHashem\Drivers\Drivers\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\גיהן שרה.MBJCOMP\Desktop\BeezratHashem\Drivers\Drivers\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\גיהן שרה.MBJCOMP\Desktop\BeezratHashem\Drivers\Drivers\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\גיהן שרה.MBJCOMP\Desktop\BeezratHashem\Drivers\Drivers\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\גיהן שרה.MBJCOMP\Desktop\BeezratHashem\Drivers\Drivers\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\גיהן שרה.MBJCOMP\Desktop\BeezratHashem\Drivers\Drivers\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\גיהן שרה.MBJCOMP\Desktop\BeezratHashem\Drivers\Drivers\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\גיהן שרה.MBJCOMP\Desktop\BeezratHashem\Drivers\Drivers\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\גיהן שרה.MBJCOMP\Desktop\BeezratHashem\Drivers\Drivers\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\גיהן שרה.MBJCOMP\Desktop\BeezratHashem\Drivers\Drivers\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\גיהן שרה.MBJCOMP\Desktop\BeezratHashem\Drivers\Drivers\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\גיהן שרה.MBJCOMP\Desktop\BeezratHashem\Drivers\Drivers\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\גיהן שרה.MBJCOMP\Desktop\BeezratHashem\Drivers\Drivers\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\גיהן שרה.MBJCOMP\Desktop\BeezratHashem\Drivers\Drivers\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\גיהן שרה.MBJCOMP\Desktop\BeezratHashem\Drivers\Drivers\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\גיהן שרה.MBJCOMP\Desktop\BeezratHashem\Drivers\Drivers\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\גיהן שרה.MBJCOMP\Desktop\BeezratHashem\Drivers\Drivers\bin\Debug\net7.0\BlDriver.dll
+C:\Users\גיהן שרה.MBJCOMP\Desktop\BeezratHashem\Drivers\Drivers\bin\Debug\net7.0\DalDriver.dll
+C:\Users\גיהן שרה.MBJCOMP\Desktop\BeezratHashem\Drivers\Drivers\bin\Debug\net7.0\BlDriver.pdb
+C:\Users\גיהן שרה.MBJCOMP\Desktop\BeezratHashem\Drivers\Drivers\bin\Debug\net7.0\DalDriver.pdb
+C:\Users\גיהן שרה.MBJCOMP\Desktop\BeezratHashem\Drivers\Drivers\obj\Debug\net7.0\Drivers.csproj.AssemblyReference.cache
+C:\Users\גיהן שרה.MBJCOMP\Desktop\BeezratHashem\Drivers\Drivers\obj\Debug\net7.0\Drivers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\גיהן שרה.MBJCOMP\Desktop\BeezratHashem\Drivers\Drivers\obj\Debug\net7.0\Drivers.AssemblyInfoInputs.cache
+C:\Users\גיהן שרה.MBJCOMP\Desktop\BeezratHashem\Drivers\Drivers\obj\Debug\net7.0\Drivers.AssemblyInfo.cs
+C:\Users\גיהן שרה.MBJCOMP\Desktop\BeezratHashem\Drivers\Drivers\obj\Debug\net7.0\Drivers.csproj.CoreCompileInputs.cache
+C:\Users\גיהן שרה.MBJCOMP\Desktop\BeezratHashem\Drivers\Drivers\obj\Debug\net7.0\Drivers.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\גיהן שרה.MBJCOMP\Desktop\BeezratHashem\Drivers\Drivers\obj\Debug\net7.0\staticwebassets\msbuild.Drivers.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\גיהן שרה.MBJCOMP\Desktop\BeezratHashem\Drivers\Drivers\obj\Debug\net7.0\staticwebassets\msbuild.build.Drivers.props
+C:\Users\גיהן שרה.MBJCOMP\Desktop\BeezratHashem\Drivers\Drivers\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Drivers.props
+C:\Users\גיהן שרה.MBJCOMP\Desktop\BeezratHashem\Drivers\Drivers\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Drivers.props
+C:\Users\גיהן שרה.MBJCOMP\Desktop\BeezratHashem\Drivers\Drivers\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\גיהן שרה.MBJCOMP\Desktop\BeezratHashem\Drivers\Drivers\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\גיהן שרה.MBJCOMP\Desktop\BeezratHashem\Drivers\Drivers\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\גיהן שרה.MBJCOMP\Desktop\BeezratHashem\Drivers\Drivers\obj\Debug\net7.0\scopedcss\bundle\Drivers.styles.css
+C:\Users\גיהן שרה.MBJCOMP\Desktop\BeezratHashem\Drivers\Drivers\obj\Debug\net7.0\Drivers.csproj.CopyComplete
+C:\Users\גיהן שרה.MBJCOMP\Desktop\BeezratHashem\Drivers\Drivers\obj\Debug\net7.0\Drivers.dll
+C:\Users\גיהן שרה.MBJCOMP\Desktop\BeezratHashem\Drivers\Drivers\obj\Debug\net7.0\refint\Drivers.dll
+C:\Users\גיהן שרה.MBJCOMP\Desktop\BeezratHashem\Drivers\Drivers\obj\Debug\net7.0\Drivers.pdb
+C:\Users\גיהן שרה.MBJCOMP\Desktop\BeezratHashem\Drivers\Drivers\obj\Debug\net7.0\Drivers.genruntimeconfig.cache
+C:\Users\גיהן שרה.MBJCOMP\Desktop\BeezratHashem\Drivers\Drivers\obj\Debug\net7.0\ref\Drivers.dll

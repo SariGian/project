@@ -1,0 +1,34 @@
+H:\c#\בשם השם נעשה ונצליח\Drivers\BlDriver\bin\Debug\net7.0\BlDriver.deps.json
+H:\c#\בשם השם נעשה ונצליח\Drivers\BlDriver\bin\Debug\net7.0\BlDriver.dll
+H:\c#\בשם השם נעשה ונצליח\Drivers\BlDriver\bin\Debug\net7.0\BlDriver.pdb
+H:\c#\בשם השם נעשה ונצליח\Drivers\BlDriver\obj\Debug\net7.0\BlDriver.GeneratedMSBuildEditorConfig.editorconfig
+H:\c#\בשם השם נעשה ונצליח\Drivers\BlDriver\obj\Debug\net7.0\BlDriver.AssemblyInfoInputs.cache
+H:\c#\בשם השם נעשה ונצליח\Drivers\BlDriver\obj\Debug\net7.0\BlDriver.AssemblyInfo.cs
+H:\c#\בשם השם נעשה ונצליח\Drivers\BlDriver\obj\Debug\net7.0\BlDriver.csproj.CoreCompileInputs.cache
+H:\c#\בשם השם נעשה ונצליח\Drivers\BlDriver\obj\Debug\net7.0\BlDriver.dll
+H:\c#\בשם השם נעשה ונצליח\Drivers\BlDriver\obj\Debug\net7.0\refint\BlDriver.dll
+H:\c#\בשם השם נעשה ונצליח\Drivers\BlDriver\obj\Debug\net7.0\BlDriver.pdb
+H:\c#\בשם השם נעשה ונצליח\Drivers\BlDriver\obj\Debug\net7.0\ref\BlDriver.dll
+C:\Users\גיהן שרה\Desktop\בשם השם נעשה ונצליח\Drivers\BlDriver\bin\Debug\net7.0\BlDriver.deps.json
+C:\Users\גיהן שרה\Desktop\בשם השם נעשה ונצליח\Drivers\BlDriver\bin\Debug\net7.0\BlDriver.dll
+C:\Users\גיהן שרה\Desktop\בשם השם נעשה ונצליח\Drivers\BlDriver\bin\Debug\net7.0\BlDriver.pdb
+C:\Users\גיהן שרה\Desktop\בשם השם נעשה ונצליח\Drivers\BlDriver\obj\Debug\net7.0\BlDriver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\גיהן שרה\Desktop\בשם השם נעשה ונצליח\Drivers\BlDriver\obj\Debug\net7.0\BlDriver.AssemblyInfoInputs.cache
+C:\Users\גיהן שרה\Desktop\בשם השם נעשה ונצליח\Drivers\BlDriver\obj\Debug\net7.0\BlDriver.AssemblyInfo.cs
+C:\Users\גיהן שרה\Desktop\בשם השם נעשה ונצליח\Drivers\BlDriver\obj\Debug\net7.0\BlDriver.csproj.CoreCompileInputs.cache
+C:\Users\גיהן שרה\Desktop\בשם השם נעשה ונצליח\Drivers\BlDriver\obj\Debug\net7.0\BlDriver.dll
+C:\Users\גיהן שרה\Desktop\בשם השם נעשה ונצליח\Drivers\BlDriver\obj\Debug\net7.0\refint\BlDriver.dll
+C:\Users\גיהן שרה\Desktop\בשם השם נעשה ונצליח\Drivers\BlDriver\obj\Debug\net7.0\BlDriver.pdb
+C:\Users\גיהן שרה\Desktop\בשם השם נעשה ונצליח\Drivers\BlDriver\obj\Debug\net7.0\ref\BlDriver.dll
+C:\Users\גיהן שרה.MBJCOMP\Desktop\BeezratHashem\Drivers\BlDriver\bin\Debug\net7.0\BlDriver.deps.json
+C:\Users\גיהן שרה.MBJCOMP\Desktop\BeezratHashem\Drivers\BlDriver\bin\Debug\net7.0\BlDriver.dll
+C:\Users\גיהן שרה.MBJCOMP\Desktop\BeezratHashem\Drivers\BlDriver\bin\Debug\net7.0\BlDriver.pdb
+C:\Users\גיהן שרה.MBJCOMP\Desktop\BeezratHashem\Drivers\BlDriver\obj\Debug\net7.0\BlDriver.csproj.AssemblyReference.cache
+C:\Users\גיהן שרה.MBJCOMP\Desktop\BeezratHashem\Drivers\BlDriver\obj\Debug\net7.0\BlDriver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\גיהן שרה.MBJCOMP\Desktop\BeezratHashem\Drivers\BlDriver\obj\Debug\net7.0\BlDriver.AssemblyInfoInputs.cache
+C:\Users\גיהן שרה.MBJCOMP\Desktop\BeezratHashem\Drivers\BlDriver\obj\Debug\net7.0\BlDriver.AssemblyInfo.cs
+C:\Users\גיהן שרה.MBJCOMP\Desktop\BeezratHashem\Drivers\BlDriver\obj\Debug\net7.0\BlDriver.csproj.CoreCompileInputs.cache
+C:\Users\גיהן שרה.MBJCOMP\Desktop\BeezratHashem\Drivers\BlDriver\obj\Debug\net7.0\BlDriver.dll
+C:\Users\גיהן שרה.MBJCOMP\Desktop\BeezratHashem\Drivers\BlDriver\obj\Debug\net7.0\refint\BlDriver.dll
+C:\Users\גיהן שרה.MBJCOMP\Desktop\BeezratHashem\Drivers\BlDriver\obj\Debug\net7.0\BlDriver.pdb
+C:\Users\גיהן שרה.MBJCOMP\Desktop\BeezratHashem\Drivers\BlDriver\obj\Debug\net7.0\ref\BlDriver.dll

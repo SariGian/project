@@ -1,0 +1,1 @@
+﻿Scaffold-DbContext 'Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename="C:\Users\גיהן שרה.MBJCOMP\Desktop\BeezratHashem\Drivers\DalDriver\Driver.mdf";Integrated Security=True;Connect Timeout=30' Microsoft.EntityFrameworkCore.SqlServer –Context DriverContext -OutputDir Models -NoOnConfiguring -Force

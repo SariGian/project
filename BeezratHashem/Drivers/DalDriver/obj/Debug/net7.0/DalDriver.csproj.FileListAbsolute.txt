@@ -1,0 +1,39 @@
+H:\c#\בשם השם נעשה ונצליח\Drivers\DalDriver\bin\Debug\net7.0\DalDriver.deps.json
+H:\c#\בשם השם נעשה ונצליח\Drivers\DalDriver\bin\Debug\net7.0\DalDriver.dll
+H:\c#\בשם השם נעשה ונצליח\Drivers\DalDriver\bin\Debug\net7.0\DalDriver.pdb
+H:\c#\בשם השם נעשה ונצליח\Drivers\DalDriver\obj\Debug\net7.0\DalDriver.GeneratedMSBuildEditorConfig.editorconfig
+H:\c#\בשם השם נעשה ונצליח\Drivers\DalDriver\obj\Debug\net7.0\DalDriver.AssemblyInfoInputs.cache
+H:\c#\בשם השם נעשה ונצליח\Drivers\DalDriver\obj\Debug\net7.0\DalDriver.AssemblyInfo.cs
+H:\c#\בשם השם נעשה ונצליח\Drivers\DalDriver\obj\Debug\net7.0\DalDriver.csproj.CoreCompileInputs.cache
+H:\c#\בשם השם נעשה ונצליח\Drivers\DalDriver\obj\Debug\net7.0\DalDriver.dll
+H:\c#\בשם השם נעשה ונצליח\Drivers\DalDriver\obj\Debug\net7.0\refint\DalDriver.dll
+H:\c#\בשם השם נעשה ונצליח\Drivers\DalDriver\obj\Debug\net7.0\DalDriver.pdb
+H:\c#\בשם השם נעשה ונצליח\Drivers\DalDriver\obj\Debug\net7.0\ref\DalDriver.dll
+C:\Users\גיהן שרה\Desktop\בשם השם נעשה ונצליח\Drivers\DalDriver\bin\Debug\net7.0\DalDriver.deps.json
+C:\Users\גיהן שרה\Desktop\בשם השם נעשה ונצליח\Drivers\DalDriver\bin\Debug\net7.0\DalDriver.dll
+C:\Users\גיהן שרה\Desktop\בשם השם נעשה ונצליח\Drivers\DalDriver\bin\Debug\net7.0\DalDriver.pdb
+C:\Users\גיהן שרה\Desktop\בשם השם נעשה ונצליח\Drivers\DalDriver\obj\Debug\net7.0\DalDriver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\גיהן שרה\Desktop\בשם השם נעשה ונצליח\Drivers\DalDriver\obj\Debug\net7.0\DalDriver.AssemblyInfoInputs.cache
+C:\Users\גיהן שרה\Desktop\בשם השם נעשה ונצליח\Drivers\DalDriver\obj\Debug\net7.0\DalDriver.AssemblyInfo.cs
+C:\Users\גיהן שרה\Desktop\בשם השם נעשה ונצליח\Drivers\DalDriver\obj\Debug\net7.0\DalDriver.csproj.CoreCompileInputs.cache
+C:\Users\גיהן שרה\Desktop\בשם השם נעשה ונצליח\Drivers\DalDriver\obj\Debug\net7.0\DalDriver.dll
+C:\Users\גיהן שרה\Desktop\בשם השם נעשה ונצליח\Drivers\DalDriver\obj\Debug\net7.0\refint\DalDriver.dll
+C:\Users\גיהן שרה\Desktop\בשם השם נעשה ונצליח\Drivers\DalDriver\obj\Debug\net7.0\DalDriver.pdb
+C:\Users\גיהן שרה\Desktop\בשם השם נעשה ונצליח\Drivers\DalDriver\obj\Debug\net7.0\ref\DalDriver.dll
+C:\Users\גיהן שרה\Desktop\בשם השם נעשה ונצליח\Drivers\DalDriver\bin\Debug\net7.0\DalDriver.runtimeconfig.json
+C:\Users\גיהן שרה\Desktop\בשם השם נעשה ונצליח\Drivers\DalDriver\obj\Debug\net7.0\DalDriver.csproj.AssemblyReference.cache
+C:\Users\גיהן שרה\Desktop\בשם השם נעשה ונצליח\Drivers\DalDriver\obj\Debug\net7.0\DalDriver.genruntimeconfig.cache
+C:\Users\גיהן שרה.MBJCOMP\Desktop\BeezratHashem\Drivers\DalDriver\bin\Debug\net7.0\DalDriver.deps.json
+C:\Users\גיהן שרה.MBJCOMP\Desktop\BeezratHashem\Drivers\DalDriver\bin\Debug\net7.0\DalDriver.runtimeconfig.json
+C:\Users\גיהן שרה.MBJCOMP\Desktop\BeezratHashem\Drivers\DalDriver\bin\Debug\net7.0\DalDriver.dll
+C:\Users\גיהן שרה.MBJCOMP\Desktop\BeezratHashem\Drivers\DalDriver\bin\Debug\net7.0\DalDriver.pdb
+C:\Users\גיהן שרה.MBJCOMP\Desktop\BeezratHashem\Drivers\DalDriver\obj\Debug\net7.0\DalDriver.csproj.AssemblyReference.cache
+C:\Users\גיהן שרה.MBJCOMP\Desktop\BeezratHashem\Drivers\DalDriver\obj\Debug\net7.0\DalDriver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\גיהן שרה.MBJCOMP\Desktop\BeezratHashem\Drivers\DalDriver\obj\Debug\net7.0\DalDriver.AssemblyInfoInputs.cache
+C:\Users\גיהן שרה.MBJCOMP\Desktop\BeezratHashem\Drivers\DalDriver\obj\Debug\net7.0\DalDriver.AssemblyInfo.cs
+C:\Users\גיהן שרה.MBJCOMP\Desktop\BeezratHashem\Drivers\DalDriver\obj\Debug\net7.0\DalDriver.csproj.CoreCompileInputs.cache
+C:\Users\גיהן שרה.MBJCOMP\Desktop\BeezratHashem\Drivers\DalDriver\obj\Debug\net7.0\DalDriver.dll
+C:\Users\גיהן שרה.MBJCOMP\Desktop\BeezratHashem\Drivers\DalDriver\obj\Debug\net7.0\refint\DalDriver.dll
+C:\Users\גיהן שרה.MBJCOMP\Desktop\BeezratHashem\Drivers\DalDriver\obj\Debug\net7.0\DalDriver.pdb
+C:\Users\גיהן שרה.MBJCOMP\Desktop\BeezratHashem\Drivers\DalDriver\obj\Debug\net7.0\DalDriver.genruntimeconfig.cache
+C:\Users\גיהן שרה.MBJCOMP\Desktop\BeezratHashem\Drivers\DalDriver\obj\Debug\net7.0\ref\DalDriver.dll
