@@ -16,6 +16,7 @@ public partial class DriverContext : DbContext
     public virtual DbSet<Customer> Customers { get; set; }
 
     public virtual DbSet<Worker> Workers { get; set; }
+    public object Customer { get; internal set; }
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {

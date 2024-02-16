@@ -37,3 +37,17 @@ C:\Users\גיהן שרה.MBJCOMP\Desktop\BeezratHashem\Drivers\DalDriver\obj\Deb
 C:\Users\גיהן שרה.MBJCOMP\Desktop\BeezratHashem\Drivers\DalDriver\obj\Debug\net7.0\DalDriver.pdb
 C:\Users\גיהן שרה.MBJCOMP\Desktop\BeezratHashem\Drivers\DalDriver\obj\Debug\net7.0\DalDriver.genruntimeconfig.cache
 C:\Users\גיהן שרה.MBJCOMP\Desktop\BeezratHashem\Drivers\DalDriver\obj\Debug\net7.0\ref\DalDriver.dll
+H:\c#\project\BeezratHashem\Drivers\DalDriver\bin\Debug\net7.0\DalDriver.deps.json
+H:\c#\project\BeezratHashem\Drivers\DalDriver\bin\Debug\net7.0\DalDriver.runtimeconfig.json
+H:\c#\project\BeezratHashem\Drivers\DalDriver\bin\Debug\net7.0\DalDriver.dll
+H:\c#\project\BeezratHashem\Drivers\DalDriver\bin\Debug\net7.0\DalDriver.pdb
+H:\c#\project\BeezratHashem\Drivers\DalDriver\obj\Debug\net7.0\DalDriver.csproj.AssemblyReference.cache
+H:\c#\project\BeezratHashem\Drivers\DalDriver\obj\Debug\net7.0\DalDriver.GeneratedMSBuildEditorConfig.editorconfig
+H:\c#\project\BeezratHashem\Drivers\DalDriver\obj\Debug\net7.0\DalDriver.AssemblyInfoInputs.cache
+H:\c#\project\BeezratHashem\Drivers\DalDriver\obj\Debug\net7.0\DalDriver.AssemblyInfo.cs
+H:\c#\project\BeezratHashem\Drivers\DalDriver\obj\Debug\net7.0\DalDriver.csproj.CoreCompileInputs.cache
+H:\c#\project\BeezratHashem\Drivers\DalDriver\obj\Debug\net7.0\DalDriver.dll
+H:\c#\project\BeezratHashem\Drivers\DalDriver\obj\Debug\net7.0\refint\DalDriver.dll
+H:\c#\project\BeezratHashem\Drivers\DalDriver\obj\Debug\net7.0\DalDriver.pdb
+H:\c#\project\BeezratHashem\Drivers\DalDriver\obj\Debug\net7.0\DalDriver.genruntimeconfig.cache
+H:\c#\project\BeezratHashem\Drivers\DalDriver\obj\Debug\net7.0\ref\DalDriver.dll

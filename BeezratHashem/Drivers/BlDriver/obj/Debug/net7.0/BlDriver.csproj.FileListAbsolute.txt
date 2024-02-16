@@ -32,3 +32,15 @@ C:\Users\גיהן שרה.MBJCOMP\Desktop\BeezratHashem\Drivers\BlDriver\obj\Debu
 C:\Users\גיהן שרה.MBJCOMP\Desktop\BeezratHashem\Drivers\BlDriver\obj\Debug\net7.0\refint\BlDriver.dll
 C:\Users\גיהן שרה.MBJCOMP\Desktop\BeezratHashem\Drivers\BlDriver\obj\Debug\net7.0\BlDriver.pdb
 C:\Users\גיהן שרה.MBJCOMP\Desktop\BeezratHashem\Drivers\BlDriver\obj\Debug\net7.0\ref\BlDriver.dll
+H:\c#\project\BeezratHashem\Drivers\BlDriver\bin\Debug\net7.0\BlDriver.deps.json
+H:\c#\project\BeezratHashem\Drivers\BlDriver\bin\Debug\net7.0\BlDriver.dll
+H:\c#\project\BeezratHashem\Drivers\BlDriver\bin\Debug\net7.0\BlDriver.pdb
+H:\c#\project\BeezratHashem\Drivers\BlDriver\obj\Debug\net7.0\BlDriver.csproj.AssemblyReference.cache
+H:\c#\project\BeezratHashem\Drivers\BlDriver\obj\Debug\net7.0\BlDriver.GeneratedMSBuildEditorConfig.editorconfig
+H:\c#\project\BeezratHashem\Drivers\BlDriver\obj\Debug\net7.0\BlDriver.AssemblyInfoInputs.cache
+H:\c#\project\BeezratHashem\Drivers\BlDriver\obj\Debug\net7.0\BlDriver.AssemblyInfo.cs
+H:\c#\project\BeezratHashem\Drivers\BlDriver\obj\Debug\net7.0\BlDriver.csproj.CoreCompileInputs.cache
+H:\c#\project\BeezratHashem\Drivers\BlDriver\obj\Debug\net7.0\BlDriver.dll
+H:\c#\project\BeezratHashem\Drivers\BlDriver\obj\Debug\net7.0\refint\BlDriver.dll
+H:\c#\project\BeezratHashem\Drivers\BlDriver\obj\Debug\net7.0\BlDriver.pdb
+H:\c#\project\BeezratHashem\Drivers\BlDriver\obj\Debug\net7.0\ref\BlDriver.dll

@@ -11,7 +11,7 @@ namespace Drivers.Controller
         [HttpGet]
         public string GetAll()
         {
-            return "jhy";
+            return "hello";
         }
     }
 }

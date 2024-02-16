@@ -8,23 +8,25 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\גיהן שרה.MBJCOMP\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\וייס לאה\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\גיהן שרה.MBJCOMP\\Desktop\\BeezratHashem\\Drivers\\BlDriver\\BlDriver.csproj",
+      "projectUniqueName": "C:\\Users\\וייס לאה\\Desktop\\tttttttttttttttttttttttttttt\\project\\BeezratHashem\\Drivers\\BlDriver\\BlDriver.csproj",
       "projectName": "BlDriver",
-      "projectPath": "C:\\Users\\גיהן שרה.MBJCOMP\\Desktop\\BeezratHashem\\Drivers\\BlDriver\\BlDriver.csproj",
-      "packagesPath": "C:\\Users\\גיהן שרה.MBJCOMP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\גיהן שרה.MBJCOMP\\Desktop\\BeezratHashem\\Drivers\\BlDriver\\obj\\",
+      "projectPath": "C:\\Users\\וייס לאה\\Desktop\\tttttttttttttttttttttttttttt\\project\\BeezratHashem\\Drivers\\BlDriver\\BlDriver.csproj",
+      "packagesPath": "C:\\Users\\וייס לאה\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\וייס לאה\\Desktop\\tttttttttttttttttttttttttttt\\project\\BeezratHashem\\Drivers\\BlDriver\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\גיהן שרה.MBJCOMP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\וייס לאה\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -66,7 +68,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
       }
     }
   }
