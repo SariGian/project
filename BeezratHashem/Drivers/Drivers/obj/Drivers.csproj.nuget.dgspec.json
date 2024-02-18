@@ -1,21 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\וייס לאה\\Desktop\\tttttttttttttttttttttttttttt\\project\\BeezratHashem\\Drivers\\Drivers\\Drivers.csproj": {}
+    "C:\\Users\\וייס לאה\\Desktop\\project\\BeezratHashem\\Drivers\\Drivers\\Drivers.csproj": {}
   },
   "projects": {
-    "C:\\Users\\וייס לאה\\Desktop\\tttttttttttttttttttttttttttt\\project\\BeezratHashem\\Drivers\\BlDriver\\BlDriver.csproj": {
+    "C:\\Users\\וייס לאה\\Desktop\\project\\BeezratHashem\\Drivers\\BlDriver\\BlDriver.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\וייס לאה\\Desktop\\tttttttttttttttttttttttttttt\\project\\BeezratHashem\\Drivers\\BlDriver\\BlDriver.csproj",
+        "projectUniqueName": "C:\\Users\\וייס לאה\\Desktop\\project\\BeezratHashem\\Drivers\\BlDriver\\BlDriver.csproj",
         "projectName": "BlDriver",
-        "projectPath": "C:\\Users\\וייס לאה\\Desktop\\tttttttttttttttttttttttttttt\\project\\BeezratHashem\\Drivers\\BlDriver\\BlDriver.csproj",
+        "projectPath": "C:\\Users\\וייס לאה\\Desktop\\project\\BeezratHashem\\Drivers\\BlDriver\\BlDriver.csproj",
         "packagesPath": "C:\\Users\\וייס לאה\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\וייס לאה\\Desktop\\tttttttttttttttttttttttttttt\\project\\BeezratHashem\\Drivers\\BlDriver\\obj\\",
+        "outputPath": "C:\\Users\\וייס לאה\\Desktop\\project\\BeezratHashem\\Drivers\\BlDriver\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
           "C:\\Users\\וייס לאה\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,22 +59,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\וייס לאה\\Desktop\\tttttttttttttttttttttttttttt\\project\\BeezratHashem\\Drivers\\DalDriver\\DalDriver.csproj": {
+    "C:\\Users\\וייס לאה\\Desktop\\project\\BeezratHashem\\Drivers\\DalDriver\\DalDriver.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\וייס לאה\\Desktop\\tttttttttttttttttttttttttttt\\project\\BeezratHashem\\Drivers\\DalDriver\\DalDriver.csproj",
+        "projectUniqueName": "C:\\Users\\וייס לאה\\Desktop\\project\\BeezratHashem\\Drivers\\DalDriver\\DalDriver.csproj",
         "projectName": "DalDriver",
-        "projectPath": "C:\\Users\\וייס לאה\\Desktop\\tttttttttttttttttttttttttttt\\project\\BeezratHashem\\Drivers\\DalDriver\\DalDriver.csproj",
+        "projectPath": "C:\\Users\\וייס לאה\\Desktop\\project\\BeezratHashem\\Drivers\\DalDriver\\DalDriver.csproj",
         "packagesPath": "C:\\Users\\וייס לאה\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\וייס לאה\\Desktop\\tttttttttttttttttttttttttttt\\project\\BeezratHashem\\Drivers\\DalDriver\\obj\\",
+        "outputPath": "C:\\Users\\וייס לאה\\Desktop\\project\\BeezratHashem\\Drivers\\DalDriver\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
           "C:\\Users\\וייס לאה\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -132,22 +130,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\וייס לאה\\Desktop\\tttttttttttttttttttttttttttt\\project\\BeezratHashem\\Drivers\\Drivers\\Drivers.csproj": {
+    "C:\\Users\\וייס לאה\\Desktop\\project\\BeezratHashem\\Drivers\\Drivers\\Drivers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\וייס לאה\\Desktop\\tttttttttttttttttttttttttttt\\project\\BeezratHashem\\Drivers\\Drivers\\Drivers.csproj",
+        "projectUniqueName": "C:\\Users\\וייס לאה\\Desktop\\project\\BeezratHashem\\Drivers\\Drivers\\Drivers.csproj",
         "projectName": "Drivers",
-        "projectPath": "C:\\Users\\וייס לאה\\Desktop\\tttttttttttttttttttttttttttt\\project\\BeezratHashem\\Drivers\\Drivers\\Drivers.csproj",
+        "projectPath": "C:\\Users\\וייס לאה\\Desktop\\project\\BeezratHashem\\Drivers\\Drivers\\Drivers.csproj",
         "packagesPath": "C:\\Users\\וייס לאה\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\וייס לאה\\Desktop\\tttttttttttttttttttttttttttt\\project\\BeezratHashem\\Drivers\\Drivers\\obj\\",
+        "outputPath": "C:\\Users\\וייס לאה\\Desktop\\project\\BeezratHashem\\Drivers\\Drivers\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
           "C:\\Users\\וייס לאה\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -159,18 +156,17 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\וייס לאה\\Desktop\\tttttttttttttttttttttttttttt\\project\\BeezratHashem\\Drivers\\BlDriver\\BlDriver.csproj": {
-                "projectPath": "C:\\Users\\וייס לאה\\Desktop\\tttttttttttttttttttttttttttt\\project\\BeezratHashem\\Drivers\\BlDriver\\BlDriver.csproj"
+              "C:\\Users\\וייס לאה\\Desktop\\project\\BeezratHashem\\Drivers\\BlDriver\\BlDriver.csproj": {
+                "projectPath": "C:\\Users\\וייס לאה\\Desktop\\project\\BeezratHashem\\Drivers\\BlDriver\\BlDriver.csproj"
               },
-              "C:\\Users\\וייס לאה\\Desktop\\tttttttttttttttttttttttttttt\\project\\BeezratHashem\\Drivers\\DalDriver\\DalDriver.csproj": {
-                "projectPath": "C:\\Users\\וייס לאה\\Desktop\\tttttttttttttttttttttttttttt\\project\\BeezratHashem\\Drivers\\DalDriver\\DalDriver.csproj"
+              "C:\\Users\\וייס לאה\\Desktop\\project\\BeezratHashem\\Drivers\\DalDriver\\DalDriver.csproj": {
+                "projectPath": "C:\\Users\\וייס לאה\\Desktop\\project\\BeezratHashem\\Drivers\\DalDriver\\DalDriver.csproj"
               }
             }
           }
@@ -211,7 +207,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
